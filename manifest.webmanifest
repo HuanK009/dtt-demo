@@ -1,7 +1,7 @@
 {
-  "name": "DTT Shipping ERP",
+  "name": "DTT Shipping ERP · Phase 1",
   "short_name": "DTT ERP",
-  "description": "DTT Shipping ERP – bản demo",
+  "description": "DTT Shipping ERP – bản demo Phase 1 (Khách hàng → Job → Tài chính), kèm bản đầy đủ V8",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
